@@ -1,0 +1,1 @@
+A simple scala program with method translate, such that `translate(phoneNumber)` would produce all phrases of words that can serve as mnemonics for the phone number.
